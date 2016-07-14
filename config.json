@@ -1,0 +1,12 @@
+{
+	"myPort": 1999, 
+	"websocketPort": 2000,
+	"myDomain": "domain.com:1999",
+	"where": {
+		"flUseLocalFilesystem": true,
+		"publicPath": "publicFiles/",
+		"privatePath": "privateFiles/"
+		},
+	"twitterConsumerKey": "anm3unkb1mof7isav0bkxigby",
+	"twitterConsumerSecret": "niliunipnv4xpbhjpe4cedf7dby79hnrokfxhnkij2zpzyjero" 
+	}
